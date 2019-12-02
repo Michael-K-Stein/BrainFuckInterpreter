@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainFuckInterpreter", "BrainFuckInterpreter\BrainFuckInterpreter.csproj", "{3CDF267F-B415-475C-8C25-B5A3484B6B99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CDF267F-B415-475C-8C25-B5A3484B6B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDF267F-B415-475C-8C25-B5A3484B6B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDF267F-B415-475C-8C25-B5A3484B6B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDF267F-B415-475C-8C25-B5A3484B6B99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C5854BC-19C2-448D-AC6B-19E01CF6A1C7}
+	EndGlobalSection
+EndGlobal

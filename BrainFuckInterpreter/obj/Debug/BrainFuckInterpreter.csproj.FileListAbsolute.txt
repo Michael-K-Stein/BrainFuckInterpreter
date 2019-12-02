@@ -1,0 +1,10 @@
+C:\Users\stein\source\repos\BrainFuckInterpreter\BrainFuckInterpreter\bin\Debug\BrainFuckInterpreter.exe.config
+C:\Users\stein\source\repos\BrainFuckInterpreter\BrainFuckInterpreter\bin\Debug\BrainFuckInterpreter.exe
+C:\Users\stein\source\repos\BrainFuckInterpreter\BrainFuckInterpreter\bin\Debug\BrainFuckInterpreter.pdb
+C:\Users\stein\source\repos\BrainFuckInterpreter\BrainFuckInterpreter\obj\Debug\BrainFuckInterpreter.csprojAssemblyReference.cache
+C:\Users\stein\source\repos\BrainFuckInterpreter\BrainFuckInterpreter\obj\Debug\BrainFuckInterpreter.Form1.resources
+C:\Users\stein\source\repos\BrainFuckInterpreter\BrainFuckInterpreter\obj\Debug\BrainFuckInterpreter.Properties.Resources.resources
+C:\Users\stein\source\repos\BrainFuckInterpreter\BrainFuckInterpreter\obj\Debug\BrainFuckInterpreter.csproj.GenerateResource.cache
+C:\Users\stein\source\repos\BrainFuckInterpreter\BrainFuckInterpreter\obj\Debug\BrainFuckInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\stein\source\repos\BrainFuckInterpreter\BrainFuckInterpreter\obj\Debug\BrainFuckInterpreter.exe
+C:\Users\stein\source\repos\BrainFuckInterpreter\BrainFuckInterpreter\obj\Debug\BrainFuckInterpreter.pdb
