@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
+*.bf linguist-detectable=true
+*.cs linguist-detectable=true
 * text=auto
