@@ -49,7 +49,9 @@
             this.rtbBrainFuckCode.Name = "rtbBrainFuckCode";
             this.rtbBrainFuckCode.Size = new System.Drawing.Size(776, 290);
             this.rtbBrainFuckCode.TabIndex = 1;
-            this.rtbBrainFuckCode.Text = "";
+            this.rtbBrainFuckCode.Tag = "0";
+            this.rtbBrainFuckCode.Text = "( code )";
+            this.rtbBrainFuckCode.Click += new System.EventHandler(this.rtbBrainFuckCode_Click);
             // 
             // tbInput
             // 
@@ -57,6 +59,9 @@
             this.tbInput.Name = "tbInput";
             this.tbInput.Size = new System.Drawing.Size(695, 20);
             this.tbInput.TabIndex = 2;
+            this.tbInput.Tag = "0";
+            this.tbInput.Text = "( input )";
+            this.tbInput.Click += new System.EventHandler(this.tbInput_Click);
             // 
             // bRun
             // 
@@ -72,6 +77,7 @@
             // 
             this.rtbOutput.Location = new System.Drawing.Point(12, 444);
             this.rtbOutput.Name = "rtbOutput";
+            this.rtbOutput.ReadOnly = true;
             this.rtbOutput.Size = new System.Drawing.Size(776, 100);
             this.rtbOutput.TabIndex = 4;
             this.rtbOutput.Text = "";

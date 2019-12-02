@@ -128,5 +128,15 @@ namespace BrainFuckInterpreter
             ResetRegisrty();
             rtbOutput.Text = runCode(rtbBrainFuckCode.Text.ToArray(), tbInput.Text.ToArray(),0,0,0);
         }
+
+        private void tbInput_Click(object sender, EventArgs e)
+        {
+            if (tbInput.Tag.ToString() != "1") { tbInput.Text = ""; tbInput.Tag = "1"; }
+        }
+
+        private void rtbBrainFuckCode_Click(object sender, EventArgs e)
+        {
+            if (rtbBrainFuckCode.Tag.ToString() != "1") { rtbBrainFuckCode.Text = ""; rtbBrainFuckCode.Tag = "1"; }
+        }
     }
 }
