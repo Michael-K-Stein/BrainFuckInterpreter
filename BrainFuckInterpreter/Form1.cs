@@ -104,7 +104,7 @@ namespace BrainFuckInterpreter
                 if (code[codeInd] == '[') {
                     char[] subL = subLoop(code, codeInd);
                     while (memory[regInd] != 0) {
-                        runCode(subL,input,regInd,0,inputInd);
+                        output += runCode(subL,input,regInd,0,inputInd);
                     }
                     codeInd += subL.Length+1;
                 }
